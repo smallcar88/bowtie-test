@@ -1,0 +1,19 @@
+{
+  "name": "testingforbowtie_source",
+  "version": "1.0.0",
+  "description": "Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallcar88/bowtie-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallcar88/bowtie-test/issues"
+  },
+  "homepage": "https://github.com/smallcar88/bowtie-test#readme"
+}
